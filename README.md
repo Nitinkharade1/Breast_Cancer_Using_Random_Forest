@@ -1,7 +1,3 @@
-# Breast_Cancer_Using_Random_Forest
-
-Sure, here is an example GitHub repository information that you can include in your repository:
-
 ### Repository Name: Breast Cancer Classification with Random Forest
 
 ### Description:
